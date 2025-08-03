@@ -3,7 +3,7 @@ Version: 2.5.6B3
 Architecture: iphoneos-arm
 Maintainer: comingisky@foxmail.com
 Depends: mobilesubstrate
-Filename: /Users/jiu-f/debs/iSkyPhone_2.5.6B3.deb
+Filename: debs/iSkyPhone_2.5.6B3.deb
 Size: 3610654
 MD5sum: d19f638194ea2c06dd47bd2644a86f30
 SHA1: 18d770c812a790cf2633ecefff5b9060e7a82c0d
@@ -17,7 +17,7 @@ Version: 2.5.6B3
 Architecture: iphoneos-arm
 Maintainer: comingisky@foxmail.com
 Depends: mobilesubstrate
-Filename: /Users/jiu-f/debs/iSkyPhoneII-T288_2.5.6B3.deb
+Filename: debs/iSkyPhoneII-T288_2.5.6B3.deb
 Size: 6468602
 MD5sum: 01a15812aca3be6ef4482d31852de953
 SHA1: f6cef9d0a8d3df7f46ebc69eeb7146ddaa3657bd
@@ -31,7 +31,7 @@ Version: 2.5.8
 Architecture: iphoneos-arm
 Maintainer: comingisky@foxmail.com
 Depends: mobilesubstrate
-Filename: /Users/jiu-f/debs/iSkyPhoneII_2.5.8.deb
+Filename: debs/iSkyPhoneII_2.5.8.deb
 Size: 6468716
 MD5sum: aebaf33396357802278b5df962861c48
 SHA1: ea38a10fabfacb2585cc91fa4c56fa8d1330f024
@@ -44,7 +44,7 @@ Package: com.tbiphone.PxlInstaller.V1.0
 Version: 1.0
 Installed-Size: 319
 Depends: cydia
-Filename: /Users/jiu-f/debs/PXLInstaller_1.0_iOS3.deb
+Filename: debs/PXLInstaller_1.0_iOS3.deb
 Size: 138990
 MD5sum: 8cc38f5f7c624eee1d5ce188105fba69
 SHA1: 0001ea5967858f976ba834a411fffd63afa5a748
@@ -60,7 +60,7 @@ Package: com.tbiphone.PxlInstaller.V1.0
 Version: 1.0
 Installed-Size: 319
 Depends: cydia
-Filename: /Users/jiu-f/debs/PXLInstaller_1.0_iOS4.deb
+Filename: debs/PXLInstaller_1.0_iOS4.deb
 Size: 207112
 MD5sum: 2d8ee09b8e0fbf8bdfad99b3e03e528e
 SHA1: d65221b45c361f97cb53a7c3b1a81ee0e301aa20
@@ -79,7 +79,7 @@ Maintainer: ichitaso
 Pre-Depends: cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 2.1) | cy+model.ipod (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipad (= 1.1), firmware (= 4.3.4) | firmware (= 4.3.5) |  firmware (= 5.0) | firmware (= 5.1)
 Conflicts: repo.weiphone.unthredera1n
 Replaces: com.unthreadedjb.unthredera1n
-Filename: /Users/jiu-f/debs/435Unthredera1n.deb
+Filename: debs/435Unthredera1n.deb
 Size: 155366
 MD5sum: d8b325819101a28a7ac1b4de043a19f7
 SHA1: 2223f98388375e8d793feeb4cd63055118d9b2d7
@@ -98,7 +98,7 @@ Version: 0.9.4
 Architecture: iphoneos-arm
 Maintainer: Yosion <yosiontec@qq.com>
 Depends: mobilesubstrate (>= 0.9.3000-1) ,firmware (>= 3.0),us.hackulo.appsync3
-Filename: /Users/jiu-f/debs/YosionApp_Beta_0.9.4_OS_3.1.deb
+Filename: debs/YosionApp_Beta_0.9.4_OS_3.1.deb
 Size: 2075728
 MD5sum: c3318fe216b4c4a8069ee9bcf56f6da8
 SHA1: fca4d87f2d0e770c0e922cc9cf19360a3aba17c3
@@ -114,7 +114,7 @@ Version: 0.9.4
 Architecture: iphoneos-arm
 Maintainer: Yosion <yosiontec@qq.com>
 Depends: mobilesubstrate (>= 0.9.3000-1) ,firmware (>= 4.0),us.hackulo.appsync40
-Filename: /Users/jiu-f/debs/YosionApp_Beta_0.9.4_OS_4.0.deb
+Filename: debs/YosionApp_Beta_0.9.4_OS_4.0.deb
 Size: 2075772
 MD5sum: e12ecdffa9eafd745283dd390c277cc1
 SHA1: da7814d365bfb58e0987da7b135e504fd5da1055
@@ -131,7 +131,7 @@ Architecture: iphoneos-arm
 Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
 Installed-Size: 8860
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar
-Filename: /Users/jiu-f/debs/ifile_1.5.0-4_USCat_fix3.deb
+Filename: debs/ifile_1.5.0-4_USCat_fix3.deb
 Size: 3053630
 MD5sum: 2ccc1cf069f917eb595c61ee51e6ffaa
 SHA1: af1c84ae8aeb0a13b4c3f1759adca7eabeb2b687
@@ -151,7 +151,7 @@ Architecture: iphoneos-arm
 Maintainer: Genius Blog <appsync@hackulo.us>
 Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmware (= 3.1.3) | firmware (= 3.1.4)
 Provides: appsync
-Filename: /Users/jiu-f/debs/AppSync 3.1.x.deb
+Filename: debs/AppSync 3.1.x.deb
 Size: 248082
 MD5sum: 4833d00d8bb9c6da0ad06aa0f13a0acf
 SHA1: 0d985691581885d323d61bbfc195602d6b281e46
